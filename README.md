@@ -42,8 +42,7 @@ Hola! I'm Farid Ghaderi, a backend developer who is living in Sanandaj, Iran. I'
 </p>
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/-Google Cloud-yellow?style=for-the-badge&logo=googlecloud&logoColor=darkblue&labelColor=red">
-    <img src="https://img.shields.io/badge/-AWS-yellow?style=for-the-badge&logo=amazon&logoColor=darkblue&labelColor=red">
+    <img src="https://img.shields.io/badge/-Linux-orange?style=for-the-badge&logo=linux&logoColor=orange&labelColor=282828">
   </p>
 </div>
 
