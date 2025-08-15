@@ -34,17 +34,11 @@ Hola! I'm Farid Ghaderi, a backend developer who is living in Sanandaj, Iran. I'
 </p>
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-git-E44C30?style=for-the-badge&logo=git&logoColor=E44C30&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Postman-F26734?style=for-the-badge&logo=postman&logoColor=F26734&labelColor=282828">
-  <img src="https://img.shields.io/badge/-swagger-679200?style=for-the-badge&logo=swagger&logoColor=679200&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Linux-orange?style=for-the-badge&logo=linux&logoColor=orange&labelColor=282828">
   <img src="https://img.shields.io/badge/-Docker-1C60E6?style=for-the-badge&logo=DOCKER&logoColor=blue&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Kubernetes-31648C?style=for-the-badge&logo=kubernetes&logoColor=blue&labelColor=282828">
 </div>
 </p>
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/-Linux-orange?style=for-the-badge&logo=linux&logoColor=orange&labelColor=282828">
-  </p>
-</div>
 
 ```typescript
 class Farid extends Ghaderi{
