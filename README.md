@@ -45,7 +45,7 @@ I enjoy building practical, reliable backend systems and writing code that’s c
 class Farid extends Ghaderi{
   constructor(){
     this.name = "Farid Ghaderi";
-    this.location = "Sanandaj, Iran";
+    this.location = "Worldwide";
     this.birthdate = "12 October 2001";
   }
 }
