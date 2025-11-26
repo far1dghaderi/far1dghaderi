@@ -36,6 +36,7 @@ I enjoy building practical, reliable backend systems and writing code that’s c
 </p>
 <p>
 <div align="center">
+  <img src="https://img.shields.io/badge/-Python-0a5699?style=for-the-badge&logo=python&logoColor=FFD246&labelColor=282828">
   <img src="https://img.shields.io/badge/-Linux-orange?style=for-the-badge&logo=linux&logoColor=orange&labelColor=282828">
   <img src="https://img.shields.io/badge/-Docker-1C60E6?style=for-the-badge&logo=DOCKER&logoColor=blue&labelColor=282828">
   <img src="https://img.shields.io/badge/-Kubernetes-31648C?style=for-the-badge&logo=kubernetes&logoColor=blue&labelColor=282828">
