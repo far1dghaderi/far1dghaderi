@@ -1,74 +1,73 @@
-![](https://komarev.com/ghpvc/?username=far1dghaderi&color=green&style=for-the-badge&color=blueviolet)
-<br/>
-[![wakatime](https://wakatime.com/badge/user/ae9f36c0-eb3a-413e-80b8-f3e6f9725dbf.svg)](https://wakatime.com/@ae9f36c0-eb3a-413e-80b8-f3e6f9725dbf)
-
-<h1 align="center">
-  <b>Hey Guys👋</b>
-</h1>
-
-Hola! I'm Farid Ghaderi, a Backend engineer with +3.5 years of experience.
-I enjoy building practical, reliable backend systems and writing code that’s clear and maintainable. Alongside my technical work, I value problem-solving, teamwork, and clear communication, and I’m always looking for ways to learn and improve.
-
-<br>
-
-<p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Node.js-aeff9c?style=for-the-badge&logo=node.js&logoColor=66fc44&labelColor=282828">
-  <img src="https://img.shields.io/badge/-expressjs-aeff9c?style=for-the-badge&logo=express&logoColor=aeff9c&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Nestjs-cc0836?style=for-the-badge&logo=nestjs&logoColor=cc0836&labelColor=282828">
-  <img src="https://img.shields.io/badge/-socket.io-aeff9c?style=for-the-badge&logo=socket.io&logoColor=aeff9c&labelColor=282828">
+
+# 👋 Hello, I'm Farid Ghaderi
+
+### Backend Engineer | Building Scalable & Reliable Systems
+
 </div>
-</p>
-<p>
+
+---
+
+## About Me
+
+Backend Engineer with **3.5+ years** of professional experience specializing in building practical, reliable, and scalable backend systems. I'm passionate about writing clean, maintainable code and solving complex problems through thoughtful engineering.
+
+**Core Values:**
+
+- Problem-solving and continuous learning
+- Collaborative teamwork
+- Clear communication and documentation
+- Clean, maintainable code practices
+
+---
+
+## Tech Stack
+
+### Backend & Frameworks
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## Let's Connect
+
 <div align="center">
-  <img src="https://img.shields.io/badge/-javascript-EAD41C?style=for-the-badge&logo=javascript&logoColor=EAD41C&labelColor=282828">
-  <img src="https://img.shields.io/badge/-typescript-0074C2?style=for-the-badge&logo=typescript&logoColor=0074C2&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Reactjs-5ED3F3?style=for-the-badge&logo=react&logoColor=5ED3F3&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Go-5ED3F3?style=for-the-badge&logo=go&logoColor=5ED3F3&labelColor=282828">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farid-ghaderi-ba9911167/)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faridghaderi2001@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/far1dghaderi)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/far1dghaderi)
+
 </div>
-</p>
-<p>
+
+---
+
 <div align="center">
-  <img src="https://img.shields.io/badge/-Mongodb-aeff9c?style=for-the-badge&logo=mongodb&logoColor=66fc44&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Postgresql-31648C?style=for-the-badge&logo=postgresql&logoColor=31648C&labelColor=282828">
-  <img src="https://img.shields.io/badge/-redis-9D1C0F?style=for-the-badge&logo=redis&logoColor=9D1C0F&labelColor=282828">
+  <i>Open to collaboration and interesting projects!</i>
 </div>
-</p>
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-0a5699?style=for-the-badge&logo=python&logoColor=FFD246&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Linux-orange?style=for-the-badge&logo=linux&logoColor=orange&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Docker-1C60E6?style=for-the-badge&logo=DOCKER&logoColor=blue&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Kubernetes-31648C?style=for-the-badge&logo=kubernetes&logoColor=blue&labelColor=282828">
-</div>
-</p>
-
-```typescript
-class Farid extends Ghaderi{
-  constructor(){
-    this.name = "Farid Ghaderi";
-    this.location = "Worldwide";
-    this.birthdate = "12 October 2001";
-  }
-}
-```
-
-## Reach me:
-<a target="_blank" href="https://www.instagram.com/far1dghaderi"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a target="_blank" href="https://t.me/far1dghaderi"><img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=lightblue" alt="Telegram" /></a>&nbsp;
-<a target="_blank" href="https://www.linkedin.com/in/farid-ghaderi-ba9911167/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a target="_blank" href="mailto:faridghaderi2001@gmail.com?subject=Hello%20Farid"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a target="_blank" href="https://steamcommunity.com/id/faridghaderi/"><img src="https://img.shields.io/badge/Steam-%23D14836.svg?&style=for-the-badge&logo=steam&logoColor=white&color=black" alt="Steam"/></a>&nbsp;
-<a target="_blank" href="https://open.spotify.com/user/31x6lco4icgzjpcmi3jfewxgbysq?si=e76c93303d744ea6"><img src="https://img.shields.io/badge/spotify-%23D14836.svg?&style=for-the-badge&logo=spotify&logoColor=green&color=black" alt="spotify"/></a>&nbsp;
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=far1dghaderi&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=far1dghaderi&theme=gruvbox&hide_border=true" />
-</p>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=far1dghaderi&layout=compact&show_icons=true&theme=gruvbox&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)
-
