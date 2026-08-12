@@ -2,9 +2,9 @@
 
 # 👋 Farid Ghaderi
 
-### Backend Engineer
+### Software Engineer
 
-Building scalable, reliable, and maintainable systems.
+Designing reliable systems and solving complex engineering problems.
 
 </div>
 
@@ -12,39 +12,32 @@ Building scalable, reliable, and maintainable systems.
 
 ## About Me
 
-Backend Engineer with +4 years of experience designing and building production systems.
+Software Engineer with 4+ years of experience building and maintaining production systems.
 
-I enjoy solving complex engineering problems, designing scalable architectures, and building software that remains reliable as products grow.
+I enjoy turning complex problems into simple, scalable solutions through thoughtful design, clear communication, and pragmatic engineering.
 
 ---
 
-## Expertise
+## Focus Areas
 
-- Backend Architecture
+- Software Architecture
 - System Design
 - Distributed Systems
-- API Design & Development
+- Backend Engineering
 - Scalability & Reliability
-- Database Design
 - Performance Optimization
-- Authentication & Security
-- Cloud & Containerization
+- Database Design
+- Security & Authentication
+- Cloud Infrastructure
 
 ---
 
-## Technologies
+## Principles
 
-**Backend**  
-Node.js • NestJS • Express.js
-
-**Data**  
-PostgreSQL • MongoDB • Redis
-
-**Infrastructure**  
-Docker • Kubernetes • Linux
-
-**Frontend**  
-React • Next.js
+- Build simple solutions to complex problems
+- Prioritize reliability and maintainability
+- Focus on trade-offs, not trends
+- Continuously learn and improve
 
 ---
 
