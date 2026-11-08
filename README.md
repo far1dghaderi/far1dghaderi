@@ -10,7 +10,7 @@
 
 [![Website](https://img.shields.io/badge/Website-far1d.rapidoteam.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://far1d.com](https://far1d.rapidoteam.com/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/far1dghaderi/)
-[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/far1dghaderi)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/far1d_gh)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faridghaderi2001@gmail.com)
 
 </div>
